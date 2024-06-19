@@ -30,7 +30,7 @@ const user: GithubUser {
 
 
 <div align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:3000/1*mqv03KrlG5LK2XU1uV4LJg.gif" width="600" height="500"/>
+  <img src="https://miro.medium.com/v2/resize:fit:3000/1*mqv03KrlG5LK2XU1uV4LJg.gif" width="600" height="400"/>
 </div>
 <!-- <div align="bottom">
      <h4><img src="https://download.logo.wine/logo/Gmail/Gmail-Logo.wine.png"  **alt="Gmail" width="40" height="30"/> vaishnavisolanki.rc@gmail.com </h4>
