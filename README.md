@@ -14,7 +14,7 @@ const user: GithubUser {
 }
 ```
   <div id="badges" align="center">
-  <img src="" width="300" height="250"/>
+  <img src="https://cdn.dribbble.com/users/1187278/screenshots/15719501/media/02b128a761010ed25d595a82daff17d4.gif" width="300" height="250"/>
   </div>
 
 <div id="badges" align="center">
@@ -30,7 +30,7 @@ const user: GithubUser {
 
 
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/1187278/screenshots/15719501/media/02b128a761010ed25d595a82daff17d4.gif" width="600" height="500"/>
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*reRpiezl3EnhtteqjoGSLw.gif" width="600" height="500"/>
 </div>
 <!-- <div align="bottom">
      <h4><img src="https://download.logo.wine/logo/Gmail/Gmail-Logo.wine.png"  **alt="Gmail" width="40" height="30"/> vaishnavisolanki.rc@gmail.com </h4>
