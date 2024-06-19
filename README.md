@@ -14,7 +14,7 @@ const user: GithubUser {
 }
 ```
   <div id="badges" align="center">
-  <img src="https://cdn.dribbble.com/users/1187278/screenshots/15719501/media/02b128a761010ed25d595a82daff17d4.gif" width="300" height="250"/>
+  <img src="https://png.pngtree.com/png-vector/20220327/ourmid/pngtree-woman-work-from-home-in-cartoon-vector-png-image_4515701.png" width="300" height="250"/>
   </div>
 
 <div id="badges" align="center">
