@@ -14,7 +14,7 @@ const user: GithubUser {
 }
 ```
   <div id="badges" align="center">
-  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="300" height="250"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsyVNnyl97B4zRB-Ao-u0egBC41nR8YR7iQQ&s" width="300" height="250"/>
   </div>
 
 <div id="badges" align="center">
